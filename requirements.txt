@@ -1,0 +1,12 @@
+accelerate==1.14.0
+bitsandbytes==0.49.2
+qwen-vl-utils==0.0.14
+safetensors==0.8.0
+pandas==2.3.3
+numpy==2.2.6
+pillow==12.2.0
+tqdm==4.68.3
+requests==2.34.2
+regex==2026.5.9
+tokenizers==0.22.2
+transformers @ git+https://github.com/huggingface/transformers@17518d5321ffc8701042d0bbb2b560b6cb015bec
